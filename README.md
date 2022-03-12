@@ -12,7 +12,7 @@ If you keyboard look like this and you want to make it work with Mac OS follow i
 
 ## 2) Install the keyboard layout system-wide
 
-- ```cd /Library/Keyboard\ Layouts; sudo curl -O# https://raw.githubusercontent.com/TODO```
+- ```cd /Library/Keyboard\ Layouts; sudo curl -O# https://raw.githubusercontent.com/GaetanoPiazzolla/qwerty-macos-ita-layout/master/QWERTY-ita.keylayout```
 - Log out and log in again.
 - Enable the new keyboard layout via System Preferences › Keyboard › Input Sources › Others (Altre) › QUERTY-ITA
 
